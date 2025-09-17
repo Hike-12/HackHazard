@@ -25,7 +25,7 @@
     "html2canvas": "^1.4.1",
     "html5-qrcode": "^2.3.8",
     "lodash": "^4.17.21",
-    "mermaid": "^11.6.0",
+    "mermaid": "^11.10.1",
     "postcss": "^8.5.3",
     "qrcode.react": "^4.2.0",
     "react": "^19.0.0",
