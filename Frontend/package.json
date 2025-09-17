@@ -21,7 +21,7 @@
     "axios": "^1.8.4",
     "chart.js": "^4.4.9",
     "date-fns": "^4.1.0",
-    "framer-motion": "^12.9.0",
+    "framer-motion": "^12.23.12",
     "html2canvas": "^1.4.1",
     "html5-qrcode": "^2.3.8",
     "lodash": "^4.17.21",
