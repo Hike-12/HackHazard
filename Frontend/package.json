@@ -24,7 +24,7 @@
     "framer-motion": "^12.9.0",
     "html2canvas": "^1.4.1",
     "html5-qrcode": "^2.3.8",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mermaid": "^11.6.0",
     "postcss": "^8.5.3",
     "qrcode.react": "^4.2.0",
